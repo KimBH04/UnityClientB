@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<PlayerData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <playerName>name</playerName>
+  <playerLevel>1</playerLevel>
+  <items>
+    <string>돌1</string>
+    <string>바위1</string>
+  </items>
+</PlayerData>
