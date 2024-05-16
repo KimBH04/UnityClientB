@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec863a0c947f5ab4a82228683f0c7827, type: 3}
+  m_Name: NewNewStory 1
+  m_EditorClassIdentifier: 
+  storyNumber: 1
+  mainImage: {fileID: 2800000, guid: 6df7354ee48de954c94e7b39cfd71ce4, type: 3}
+  storyDone: 0
+  storyType: 0
+  storyText: 'asdlkfjawelkfjal eawefi jaefkajwe awjakajlae;aefjae l awefk a
+
+    wef
+    awefa efjfjjfawej;aoiajwjelksdjla esitawehtadjvancmvna;efjaelgjeiae
+
+    aefa
+    eafejoajef alekja dipgaekjdijekflsjdkf cihge aeifjaefjieslsifjdis sfjiljseljf
+    ;aoeijpqjfjk v
+
+    aejfqjpqjf asijfdknvejailefjawg aehawefahflijk'
+  options:
+  - optionText: "\uC548\uB155"
+    buttonText: "\uBC18\uAC00\uC6CC"
+    eventCheck:
+      checkValue: 0
+      type: 0
+      successResult: []
+      failedResult: []
+  - optionText: "\uC798\uAC00"
+    buttonText: "\uADF8\uB798"
+    eventCheck:
+      checkValue: 0
+      type: 0
+      successResult: []
+      failedResult: []
+  - optionText: "\uD06C\uD558\uD558"
+    buttonText: "\uC73C\uD558\uD558"
+    eventCheck:
+      checkValue: 0
+      type: 0
+      successResult: []
+      failedResult: []

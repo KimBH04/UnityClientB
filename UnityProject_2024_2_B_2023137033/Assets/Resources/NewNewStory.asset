@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec863a0c947f5ab4a82228683f0c7827, type: 3}
+  m_Name: NewNewStory
+  m_EditorClassIdentifier: 
+  storyNumber: 0
+  mainImage: {fileID: 2800000, guid: e1b41b73c0d33234bacff3fdd4054957, type: 3}
+  storyDone: 0
+  storyType: 0
+  storyText: "awjefiajwefnaweofaweoijaw;eknlksdnfae aowief wiejf [[IEJ]AWPIJGA EFKNMAEWKF
+    \neIO PJ\nFWIEJF eifJ EFkefj Q\nPFpofj EFo\u3137\uB808\uB31C\u3153\u3139\nefoJE\nPFOjefJEFIJENJCN;AEJ"
+  options:
+  - optionText: "\uC548\uB155"
+    buttonText: "\uBC18\uAC00\uC6CC"
+    eventCheck:
+      checkValue: 0
+      type: 0
+      successResult:
+      - value: 1
+        stats:
+          hpPoint: 0
+          spPoint: 0
+          currentHpPoint: 0
+          currentSpPoint: 0
+          currentXpPoint: 0
+          strength: 0
+          dexterity: 0
+          consitiution: 0
+          intelligence: 0
+          wisdom: 0
+          charisma: 0
+        type: 4
+      failedResult: []
+  - optionText: "\uC798\uAC00"
+    buttonText: "\uADF8\uB798"
+    eventCheck:
+      checkValue: 0
+      type: 0
+      successResult: []
+      failedResult: []
+  - optionText: "\uD06C\uD558\uD558"
+    buttonText: "\uC73C\uD558\uD558"
+    eventCheck:
+      checkValue: 0
+      type: 0
+      successResult: []
+      failedResult: []

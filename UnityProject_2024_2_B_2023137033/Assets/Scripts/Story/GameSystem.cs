@@ -1,9 +1,9 @@
+using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
 
 namespace StoryGame
 {
-    using System.Collections.Generic;
 #if UNITY_EDITOR
     using UnityEditor;
 
@@ -78,7 +78,8 @@ namespace StoryGame
         {
             StoryModel tempStoryModels = FindStoryModel(number);
 
-
+            StorySystem.Instance.currentStoryModel = tempStoryModels;
+            StorySystem.Instance.CoShowText();
         }
 
         public void ApplyChoice(StoryModel.Result result)
