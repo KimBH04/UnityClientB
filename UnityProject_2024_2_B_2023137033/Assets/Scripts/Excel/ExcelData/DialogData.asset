@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 8
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f653afc739aa8be49b23ddcf29382500, type: 3}
+  m_Name: DialogData
+  m_EditorClassIdentifier: 
+  sheets:
+  - name: umjoonsik
+    list:
+    - index: 1
+      npc: 1
+      gamestate: 1
+      dialog: "1\uBC88 \uB300\uD654"
+      changestate: 0
+    - index: 2
+      npc: 2
+      gamestate: 2
+      dialog: "2\uBC88 \uB300\uD654"
+      changestate: 0
+    - index: 3
+      npc: 3
+      gamestate: 3
+      dialog: "3\uBC88 \uB300\uD654"
+      changestate: 0
+    - index: 4
+      npc: 4
+      gamestate: 4
+      dialog: "4\uBC88 \uB300\uD654"
+      changestate: 0
+    - index: 5
+      npc: 1
+      gamestate: 2
+      dialog: "5\uBC88 \uB300\uD654"
+      changestate: 1
+    - index: 6
+      npc: 2
+      gamestate: 1
+      dialog: "6\uBC88 \uB300\uD654"
+      changestate: 2
+    - index: 7
+      npc: 3
+      gamestate: 3
+      dialog: "7\uBC88 \uB300\uD654"
+      changestate: 0
+    - index: 8
+      npc: 4
+      gamestate: 4
+      dialog: "8\uBC88 \uB300\uD654"
+      changestate: 0
+    - index: 9
+      npc: 1
+      gamestate: 2
+      dialog: "9\uBC88 \uB300\uD654"
+      changestate: 1
+    - index: 10
+      npc: 2
+      gamestate: 5
+      dialog: "10\uBC88 \uB300\uD654"
+      changestate: 6
+    - index: 11
+      npc: 3
+      gamestate: 3
+      dialog: "11\uBC88 \uB300\uD654"
+      changestate: 0
+    - index: 12
+      npc: 4
+      gamestate: 4
+      dialog: "12\uBC88 \uB300\uD654"
+      changestate: 0
